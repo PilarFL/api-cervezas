@@ -1,0 +1,26 @@
+{
+  "name": "api-cervezas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prueba.js",
+  "scripts": {
+    "start": "node app/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PilarFL/api-cervezas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PilarFL/api-cervezas/issues"
+  },
+  "homepage": "https://github.com/PilarFL/api-cervezas#readme",
+  "devDependencies": {
+    "eslint": "^3.5.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
